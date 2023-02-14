@@ -37,3 +37,8 @@ TECHNICAL IMPLEMENTATION
 
 7. In the console the address of the contract is going to appear, with it 
     we should go to the Goerli network webpage and check its traceability.
+    
+AUTHORS
+  -Pablo Santiago
+  -Hugo de la Camara
+
